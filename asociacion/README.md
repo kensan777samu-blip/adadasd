@@ -1,6 +1,6 @@
 ## Getting Started
 
-## EN REALIDAD ESTE ES COMPOSICION SOLAMENTE QUE ME CONFUNDI CON EL NOMBRE LOL.
+## EN REALIDAD ESTE ES AGREGACION PQ UNA BIBLIOTECA SIN LIBROS NO TIENE SENTIDO WAAAAA
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
